@@ -9,6 +9,7 @@
     - Công thức học: phương pháp hướng giảm, hướng giảm ngẫu nhiên
     - Sai số huấn luyện, sai số kiểm tra
     - Trực quan hóa
+  + (Bí mật ^.^)
 
 * Hình thức:
   + Trình bày tự luận. Sinh viên tự chuẩn bị giấy kiểm tra. Nộp bài tự luận
