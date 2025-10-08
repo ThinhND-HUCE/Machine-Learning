@@ -14,3 +14,8 @@
   <li>Chứng minh công thức ma trận Hess của hàm mục tiêu. Từ đó trình bày phương pháp Newton-Raphson</li>
   <li>Cho tập dữ liệu (từ 10 đến 20 mẫu). So sánh các tham số tối ưu và xác suất dự báo tương ứng khi sử dụng thư viện scikit-learn và thuật toán hướng giảm</li>
 </ol>
+
+## Tiêu chí chấm điểm:
+* Kiến thức toán học
+* Kỹ năng lập trình
+* Kỹ năng lập luận, trình bày
