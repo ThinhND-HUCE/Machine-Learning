@@ -17,7 +17,7 @@
 
 ## 3. Câu hỏi phụ
 <ol>
-  <li>Cho $\boldsymbol{f}$</li>
+  <li>Cho $\boldsymbol{f}, \boldsymbol{f}: \Bbb R^b \to \Bbb R^m$. Chứng minh $\nabla \boldsymbol{f}^\top g = \boldsymbol{J}\left( \boldsymbol{f} \right)^\top$</li>
   <li></li>
 </ol>
 
