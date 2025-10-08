@@ -18,7 +18,7 @@
 ## 3. Câu hỏi phụ
 <ol>
   <li>Cho $\boldsymbol{f}, \boldsymbol{g}: \Bbb R^b \to \Bbb R^m$. Chứng minh $\nabla \left( \boldsymbol{f}^\top g \right) = \boldsymbol{J}\left( \boldsymbol{f} \right)^\top \boldsymbol{g} + \boldsymbol{J}\left( \boldsymbol{g} \right)^\top \boldsymbol{f}$</li>
-  <li></li>
+  <li>Cho $\boldsymbol{A} \in \Bbb R^{m\times n}$, ($m \ge n$), $\boldsymbol{b}\in\Bbb R^m$. Chứng minh nếu hạng của $\operatorname{rank}\boldsymbol{A}$ </li>
 </ol>
 
 ## Tiêu chí chấm điểm:
