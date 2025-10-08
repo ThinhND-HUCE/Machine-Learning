@@ -25,3 +25,8 @@
 * Kiến thức toán học
 * Kỹ năng lập trình
 * Kỹ năng lập luận, trình bày
+
+## Hình thức
+* Tự luận, không dùng tài liệu
+* Lập trình trên máy cá nhân (sinh viên tự chuẩn bị, đảm bảo pin, nguồn điện đầy đủ). Không được dùng code sẵn
+* Thời gian: 90 phút (bắt đầu từ 13h)
